@@ -1,0 +1,18 @@
+This package is both project and assignment for CS5249 module.
+
+Project Title: Multi-pitch Estimation
+
+Team Member:
+Nguyen Tien Dung (HT055497N)
+Luong Chi Vu (U027353N)
+Feng Shuyu (HT050618J)
+
+Folders in the package:
+--src: 
+    Contains commented source codes. Read "readme.txt" in this subfolder to know how to run the program.
+
+--docs:
+    Contains a report, a literature review, and a slides for presentation.
+
+--docs/Diagrams:
+    Contains 3 diagrams, which explain package relationships of the sourcecodes (see "Package Diagram.jpg"), function relationships of Klapuri2005 method (see "Klapuri2005.jpg") and Klapuri2006 method (see "Klapuri2006.jpg").

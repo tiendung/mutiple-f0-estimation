@@ -1,0 +1,1 @@
+this folder contain common functions shared between Klapuri2005 & Klapuri2006 methods
